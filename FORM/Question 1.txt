@@ -1,0 +1,8 @@
+trim($ch):
+cette fonction utilisée pour supprimer les espaces ou autres caractères prédéfinis des deux côtés d'une chaîne
+
+stripslashes($ch):
+cette fonction permet de enlèver les barres obliques inverses supplémentaires ajoutées par la fonction addslashes ().
+
+htmlspecialchars($ch):
+c'est une fontion pour remplacer tous ces caractères par leur équivalent dans la chaîne string.

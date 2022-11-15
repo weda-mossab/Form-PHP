@@ -1,0 +1,50 @@
+
+header{
+  background-color: #CCC;
+  padding: 10px;
+}
+
+
+.btn1
+{
+  background-color: #15a5af; 
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.btn2
+{
+  background-color:#e1ad01;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.label {
+margin-left:7px;
+}
+ .champ{
+  margin-left:3px;
+  }
+  fieldset{
+    width: 90%;
+  }
+  input{
+    width:100%;
+  }
+  select{
+    width:100%;
+  }
